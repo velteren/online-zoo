@@ -56,7 +56,7 @@ h1,
 .header__logo_icon::after {
   content: '';
   position: absolute;
-  background-image: url(../../assets/icons/bamboo.svg);
+  background-image: url('assets/icons/bamboo.svg');
   background-repeat: no-repeat;
   width: 13px;
   height: 20px;
@@ -109,7 +109,7 @@ h1,
 /* Watch */
 .watch {
   height: 700px;
-  background: url('../../assets/images/Giant\ Panda.jpg');
+  background: url('assets/images/Giant\ Panda.jpg');
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: cover;
@@ -213,7 +213,7 @@ h1,
   height: 605px;
   right: 0;
   top: 792px;
-  background: url('../../assets/images/flower_foto1.jpg');
+  background: url('assets/images/flower_foto1.jpg');
   /*filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));*/
 }
 /* pets */
@@ -338,7 +338,7 @@ h1,
   width: 292px;
   height: 460px;
   top: 2149px;
-  background: url("../../assets/images/palm_foto.png");
+  background: url("assets/images/palm_foto.png");
 }
 .strelitzia {
   position: absolute;
@@ -346,7 +346,7 @@ h1,
   top: 2334px;
   width: 368px;
   height: 275px;
-  background: url("../../assets/images/strelitzia.png");
+  background: url("assets/images/strelitzia.png");
 }
 
 /* pick */
@@ -443,16 +443,16 @@ h1,
   border: 1px solid #FE9013;
 }
 .area-1 {
-  background-image: url('../../assets/images/how-cards/pay.png');
+  background-image: url('assets/images/how-cards/pay.png');
 }
 .area-2 {
-  background-image: url('../../assets/images/how-cards/payment.png');
+  background-image: url('assets/images/how-cards/payment.png');
 }
 .area-3 {
-  background-image: url('../../assets/images/how-cards/monkey.png');
+  background-image: url('assets/images/how-cards/monkey.png');
 }
 .how__arrow {
-  background-image: url('../../assets/images/how-cards/arrow.png');
+  background-image: url('assets/images/how-cards/arrow.png');
   width: 69px;
   height: 125px;
   background-repeat: no-repeat;
@@ -532,16 +532,16 @@ h1,
   border-radius: 50%;
 }
 .user1 {
-  background: url('../../assets/images/testimonials/1.png');
+  background: url('assets/images/testimonials/1.png');
 }
 .user2 {
-  background: url('../../assets/images/testimonials/2.jpg');
+  background: url('assets/images/testimonials/2.jpg');
 }
 .user3 {
-  background: url('../../assets/images/testimonials/3.jpg');
+  background: url('assets/images/testimonials/3.jpg');
 }
 .user4 {
-  background: url('../../assets/images/testimonials/4.jpg');
+  background: url('assets/images/testimonials/4.jpg');
 }
 .user__info {
   margin-left: 10px;
@@ -639,7 +639,7 @@ h1,
   transition: 0.5s;
 }
 .leav {
-  background: url('../../assets/images/testimonials/leav_foto.png');
+  background: url('assets/images/testimonials/leav_foto.png');
   width: 247px;
   height: 408px;
   position: absolute;
@@ -773,24 +773,24 @@ h1,
   border-radius: 50%;
 }
 .facebook {
-  background-image: url('../../assets/images/contacts/facebook.svg');
+  background-image: url('assets/images/contacts/facebook.svg');
   background-repeat: no-repeat;
   background-position: center;
 }
 .twitter {
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../../assets/images/contacts/twitter.svg');
+  background-image: url('assets/images/contacts/twitter.svg');
 }
 .instagram {
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../../assets/images/contacts/instagram.svg');
+  background-image: url('assets/images/contacts/instagram.svg');
 }
 .youtube {
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../../assets/images/contacts/youtube.svg');
+  background-image: url('assets/images/contacts/youtube.svg');
 }
 .footer__nav-list {
   padding-left: 0;
